@@ -1,0 +1,19 @@
+{
+    "name": "Paundra Amirtha Tanto",
+    "role": "Software Engineer",
+    "about": "Detail-oriented Software Engineer with a strong foundation in developing robust, efficient, and scalable software solutions. Passionate about leveraging technical expertise and creative problem-solving to deliver innovative applications. Proficient in modern programming frameworks and eager to contribute to cutting-edge software development projects.",
+    "resume_link": "Resume_Paundra_20250825.pdf",
+    "foreground_color": "8FFF00",
+    "background_color": "091100",
+    "email": "paundratanto@gmail.com",
+    "social": [
+        {
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/paundra-tanto/"
+        },
+        {
+            "name": "Github",
+            "link": "https://github.com/paundra0217"
+        }
+    ]
+}

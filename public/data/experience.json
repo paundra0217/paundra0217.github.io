@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "start_date": "2025-02-01T00:00:00.000Z",
+      "position": "Programmer, Intern",
+      "company": "Strayflux",
+      "description": [
+        "Collaborated in a cross-functional team of 5 to design and build a software product from the ground up, following the company's established development pipeline.",
+        "Developed and optimized core system architecture and features with C# (Unity), ensuring scalability, maintainability, and cross-platform reliability.",
+        "Designed and integrated user interfaces with backend logic, improving usability and workflow efficiency during testing.",
+        "Delivered project milestones on time by coordinating tasks with teammates, contributing to the successful release of a fully functional prototype."
+      ]
+    },
+    {
+      "start_date": "2023-03-01T00:00:00.000Z",
+      "end_date": "2024-02-29T00:00:00.000Z",
+      "position": "Associate Member, Programmer",
+      "company": "Bina Nusantara IT Division",
+      "description": [
+        "Maintained and enhanced 3+ internal web portals accessed by students and staff across the organization, contributing to smooth and consistent digital experiences, using C# / ASP.NET.",
+        "Collaborated in a 4-person sub-team within a larger 10-person engineering group to refactor legacy code, resolve bugs, and introduce new UI features that improved usability.",
+        "Proactively identified and fixed recurring issues, reducing error reports and improving platform stability.",
+        "Implemented feature upgrades aligned with user feedback and frontend best practices, supporting evolving academic and administrative workflows."
+      ]
+    }
+  ]
+}

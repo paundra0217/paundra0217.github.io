@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "name": "Portfolio Website (paundra0217.github.io, this website)",
+            "image_link": "",
+            "description": "Built a personal portfolio website using Next.js and Tailwind CSS to showcase projects and professional experience. Implemented a responsive design with optimized performance and deployed the site for cross-device accessibility.",
+            "start_date": "",
+            "end_date": "",
+            "link": "https://github.com/paundra0217/paundra0217.github.io"
+        },
+        {
+            "name": "Drawing Board",
+            "image_link": "",
+            "description": "Co-developed a collaborative drawing board application in Unity (C#) within one week as part of a 2-person programming team. Delivered a functional build used by attendees at a public event organized by a state-owned enterprise.",
+            "start_date": "",
+            "end_date": "",
+            "link": "https://github.com/paundra0217/drawing-board"
+        },
+        {
+            "name": "Meeting Scheduler",
+            "image_link": "",
+            "description": "Currently developing a full-stack web application with React, Laravel, and MySQL as a personal project. Rebuilt the system from an earlier MVP, introducing a refined database schema, optimized backend logic, and new features for appointment scheduling and management. Current preview image/GIF shown is the old version, new revamp version is under development.",
+            "start_date": "",
+            "end_date": "",
+            "link": "https://github.com/paundra0217/meeting-scheduler"
+        },
+        {
+            "name": "Batavia Outbreak",
+            "image_link": "/img/batavia_outbreak.gif",
+            "description": "Led development of an MVP interactive application as a solo programmer within a 3-person project team, designing and implementing the core system architecture, user interface, and key features using Unity (C#). Delivered a functional prototype showcasing the concept despite limited resources.",
+            "start_date": "",
+            "end_date": "",
+            "link": "https://github.com/paundra0217/batavia-outbreak"
+        },
+        {
+            "name": "Echoes Beneath",
+            "image_link": "/img/echoes_beneath.gif",
+            "description": "Built user interfaces and backend logic for a collaborative 3D software application using Unity (C#), implementing responsive menus, settings, and core system functionality for an interactive user experience.",
+            "start_date": "",
+            "end_date": "",
+            "link": "https://github.com/paundra0217/Echoes_Beneath"
+        },
+        {
+            "name": "Peak",
+            "image_link": "/img/peak.gif",
+            "description": "Served as the sole programmer in a 5-person game development team, responsible for implementing core mechanics, UI systems, and underlying architecture in Unity (C#). Translated design and art concepts into interactive features, ensuring smooth gameplay and system performance.",
+            "start_date": "",
+            "end_date": "",
+            "link": "https://github.com/paundra0217/peak"
+        }
+    ]
+}
