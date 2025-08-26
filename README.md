@@ -1,1 +1,1 @@
-A personal portfolio website, built with Next.js and Tailwindbun c
+A personal portfolio website, built with Next.js and Tailwind
