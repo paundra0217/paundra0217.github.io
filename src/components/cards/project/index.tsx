@@ -46,7 +46,7 @@ export default function Project({
           </p>
         </div>
         <a href={projectLink} rel="noopener noreferrer" target="_blank">
-          <button className="text-sm md:text-md p-2 bg-white bg-opacity-20 hover:bg-opacity-40 transition-all">
+          <button className="text-sm md:text-base p-2 bg-white bg-opacity-20 hover:bg-opacity-40 transition-all">
             Learn More {"->"}
           </button>
         </a>

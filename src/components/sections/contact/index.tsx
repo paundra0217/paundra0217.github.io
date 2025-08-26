@@ -36,7 +36,7 @@ export default function ContactSection({
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ ease: easeInOut, delay: 0.4 }}
             viewport={{ once: true }}
-            className="text-sm md:text-md mb-4"
+            className="text-sm md:text-base mb-4"
           >
             {"Let's connect! Have any questions, a project in mind, or just want to say hello? Feel free to drop me an email by clicking the contact button below, or reach out on LinkedIn."}
           </motion.p>
@@ -48,7 +48,7 @@ export default function ContactSection({
             href={`mailto:${email}`}
             className="w-fit"
           >
-            <button className="p-2 text-sm md:text-md bg-white bg-opacity-20 hover:bg-opacity-40 transition-all">
+            <button className="p-2 text-sm md:text-base bg-white bg-opacity-20 hover:bg-opacity-40 transition-all">
               Contact via Email {"->"}
             </button>
           </motion.a>
@@ -59,7 +59,7 @@ export default function ContactSection({
               return (
                 <a
                   key={i}
-                  className="text-[#8FFF00] hover:underline text-sm md:text-md"
+                  className="text-[#8FFF00] hover:underline text-sm md:text-base"
                   target="_blank"
                   rel="noopener noreferrer"
                   href={s.link}
@@ -69,7 +69,7 @@ export default function ContactSection({
               );
             })}
           </div>
-          <p className="text-nowrap text-sm lg:text-md">
+          <p className="text-nowrap text-sm lg:text-base">
             &copy; 2025
           </p>
         </div>

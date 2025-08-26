@@ -18,8 +18,8 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Portofolio",
-  description: "Portofolio",
+  title: "Paundra Amirtha Tanto",
+  description: "Website Portfolio",
 };
 
 export default function RootLayout({
