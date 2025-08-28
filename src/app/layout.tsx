@@ -15,6 +15,7 @@ import "./globals.css";
 
 const jetbrainsMono = JetBrains_Mono({
   subsets: ['latin'],
+  display: "swap"
 });
 
 export const metadata: Metadata = {

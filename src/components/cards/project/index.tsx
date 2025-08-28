@@ -26,7 +26,7 @@ export default function Project({
       className="flex flex-col sm:flex-row gap-8 shrink-0 p-4 bg-white bg-opacity-5 hover:bg-opacity-10"
     >
       {imageLink !== "" && (
-        <a className="aspect-video sm:aspect-auto sm:w-[240px] sm:h-[135px] shrink-0 lg:order-none bg-white bg-opacity-10" href={imageLink} target="_blank">
+        <a aria-label={title} className="aspect-video sm:aspect-auto sm:w-[240px] sm:h-[135px] shrink-0 lg:order-none bg-white bg-opacity-10" href={imageLink} target="_blank">
           <Image
             aria-hidden
             src={imageLink}
