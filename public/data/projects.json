@@ -2,15 +2,15 @@
     "data": [
         {
             "name": "Portfolio Website (paundra0217.github.io, this website)",
-            "image_link": "",
-            "description": "Built a personal portfolio website using Next.js and Tailwind CSS to showcase projects and professional experience. Implemented a responsive design with optimized performance and deployed the site for cross-device accessibility.",
+            "image_link": "/img/portfolio-website.gif",
+            "description": "Built a personal portfolio website using Next.js, Tailwind CSS, and Motion.dev to showcase projects and professional experience. Implemented a responsive design with optimized performance and deployed the site for cross-device accessibility.",
             "start_date": "",
             "end_date": "",
             "link": "https://github.com/paundra0217/paundra0217.github.io"
         },
         {
             "name": "Drawing Board",
-            "image_link": "",
+            "image_link": "/img/drawing-board.gif",
             "description": "Co-developed a collaborative drawing board application in Unity (C#) within one week as part of a 2-person programming team. Delivered a functional build used by attendees at a public event organized by a state-owned enterprise.",
             "start_date": "",
             "end_date": "",
@@ -18,8 +18,8 @@
         },
         {
             "name": "Meeting Scheduler",
-            "image_link": "",
-            "description": "Currently developing a full-stack web application with React, Laravel, and MySQL as a personal project. Rebuilt the system from an earlier MVP, introducing a refined database schema, optimized backend logic, and new features for appointment scheduling and management. Current preview image/GIF shown is the old version, new revamp version is under development.",
+            "image_link": "/img/meeting-app.png",
+            "description": "Currently developing a full-stack web application with React, Laravel, and MySQL as a personal project. Rebuilt the system from an earlier MVP, introducing a refined database schema, optimized backend logic, and new features for appointment scheduling and management. Current preview image/GIF shown is the old legacy version, new revamp version is under development.",
             "start_date": "",
             "end_date": "",
             "link": "https://github.com/paundra0217/meeting-scheduler"

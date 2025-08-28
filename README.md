@@ -1,1 +1,2 @@
-A personal portfolio website, built with Next.js and Tailwind
+## 🔴About
+A personal portfolio website that showcases my professional work and experiences, built with Next.js, Tailwind, and Motion.dev. The website features a responsive design and simple animations, and deployed the site to GitHub Pages for cross-device accessibility.
