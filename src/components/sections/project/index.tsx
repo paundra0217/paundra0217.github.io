@@ -6,6 +6,7 @@ type ProjectData = {
   description: string;
   image_link: string;
   link: string;
+  tags: string[];
 };
 
 export default async function ProjectSection() {
@@ -31,6 +32,7 @@ export default async function ProjectSection() {
               description={d.description}
               imageLink={d.image_link}
               projectLink={d.link}
+              tags={d.tags}
             />
           );
         })}

@@ -3,50 +3,76 @@
         {
             "name": "Portfolio Website (paundra0217.github.io, this website)",
             "image_link": "/img/portfolio-website.gif",
-            "description": "Built a personal portfolio website using Next.js, Tailwind CSS, and Motion.dev to showcase projects and professional experience. Implemented a responsive design with optimized performance and deployed the site for cross-device accessibility.",
+            "description": "Built a personal portfolio website using Next.js, Tailwind, and Motion (prev. Framer Motion) to showcase projects and professional experience, featuring responsive design and simple animations, and deployed the site for cross-device accessibility.",
             "start_date": "",
             "end_date": "",
-            "link": "https://github.com/paundra0217/paundra0217.github.io"
+            "link": "https://github.com/paundra0217/paundra0217.github.io",
+            "tags": [
+                "Next.js",
+                "Tailwind",
+                "Motion"
+            ]
         },
         {
             "name": "Drawing Board",
             "image_link": "/img/drawing-board.gif",
-            "description": "Co-developed a collaborative drawing board application in Unity (C#) within one week as part of a 2-person programming team. Delivered a functional build used by attendees at a public event organized by a state-owned enterprise.",
+            "description": "Co-developed an interactive application as part a 2-person programming team in one week, written in Unity and C# programming language, to deliver a solution for it to be used by attendees at an event organized by a state-owned enterprise.",
             "start_date": "",
             "end_date": "",
-            "link": "https://github.com/paundra0217/drawing-board"
+            "link": "https://github.com/paundra0217/drawing-board",
+            "tags": [
+                "C#",
+                "Unity"
+            ]
         },
         {
             "name": "Meeting Scheduler",
             "image_link": "/img/meeting-app.png",
-            "description": "Currently developing a full-stack web application with React, Laravel, and MySQL as a personal project. Rebuilt the system from an earlier MVP, introducing a refined database schema, optimized backend logic, and new features for appointment scheduling and management. Current preview image/GIF shown is the old legacy version, new revamp version is under development.",
+            "description": "A simple meeting scheduler application that currently being re-developed from an older application, using React, Laravel and MySQL as a personal project, with more refined database schema, updated to the latest stable version of the framework and database, and revamping core features through cleaner code and project structuring. Current preview image/GIF shown is the old legacy version, as the new revamp version is under development.",
             "start_date": "",
             "end_date": "",
-            "link": "https://github.com/paundra0217/meeting-scheduler"
+            "link": "https://github.com/paundra0217/meeting-scheduler",
+            "tags": [
+                "React",
+                "Laravel",
+                "MySQL"
+            ]
         },
         {
             "name": "Batavia Outbreak",
             "image_link": "/img/batavia_outbreak.gif",
-            "description": "Led development of an MVP interactive application as a solo programmer within a 3-person project team, designing and implementing the core system architecture, user interface, and key features using Unity (C#). Delivered a functional prototype showcasing the concept despite limited resources.",
+            "description": "Led a development of an MVP game or interactive application using Unity and C# programming language as a solo programmer within a 3-person project team, with designing and implementing core system design, user interface, and most key features or game mechanics, that led to a functional prototype to showcase the concept despite the limited resources.",
             "start_date": "",
             "end_date": "",
-            "link": "https://github.com/paundra0217/batavia-outbreak"
+            "link": "https://github.com/paundra0217/batavia-outbreak",
+            "tags": [
+                "C#",
+                "Unity"
+            ]
         },
         {
             "name": "Echoes Beneath",
             "image_link": "/img/echoes_beneath.gif",
-            "description": "Built user interfaces and backend logic for a collaborative 3D software application using Unity (C#), implementing responsive menus, settings, and core system functionality for an interactive user experience.",
+            "description": "Built user interfaces and backend logic by implementing menu and settings interfaces, UI logic, and core functionality for an interactive user experience in a team of programmers, to collaboratively develop a 3D game or interactive application with Unity and C# programming language.",
             "start_date": "",
             "end_date": "",
-            "link": "https://github.com/paundra0217/Echoes_Beneath"
+            "link": "https://github.com/paundra0217/Echoes_Beneath",
+            "tags": [
+                "C#",
+                "Unity"
+            ]
         },
         {
             "name": "Peak",
             "image_link": "/img/peak.gif",
-            "description": "Served as the sole programmer in a 5-person game development team, responsible for implementing core mechanics, UI systems, and underlying architecture in Unity (C#). Translated design and art concepts into interactive features, ensuring smooth gameplay and system performance.",
+            "description": "Served as the sole programmer in a 5-person game development team, responsible for implementing core mechanics, UI systems, and underlying architecture in Unity and C# programming language to ensure smoother gameplay and user experience.",
             "start_date": "",
             "end_date": "",
-            "link": "https://github.com/paundra0217/peak"
+            "link": "https://github.com/paundra0217/peak",
+            "tags": [
+                "C#",
+                "Unity"
+            ]
         }
     ]
 }
