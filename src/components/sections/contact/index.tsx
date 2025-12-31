@@ -70,7 +70,7 @@ export default function ContactSection({
             })}
           </div>
           <p className="text-nowrap text-sm lg:text-base">
-            &copy; 2025
+            &copy; 2026
           </p>
         </div>
       </div>
