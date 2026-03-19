@@ -4,6 +4,7 @@ import ProjectSection from "@/components/sections/project";
 import ExperienceSection from "@/components/sections/experience";
 import ContactSection from "@/components/sections/contact";
 import AboutMeSection from "@/components/sections/aboutme";
+import BackToTop from "@/components/backtotop";
 
 export default async function Home() {
   const filePorto = await fs.readFile(
@@ -21,6 +22,8 @@ export default async function Home() {
       <ExperienceSection resumeLink={portfolio_data.resume_link} />
 
       <ContactSection email={portfolio_data.email} socialLinks={portfolio_data.social} />
+
+      <BackToTop />
     </div>
   );
 }

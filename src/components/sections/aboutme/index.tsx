@@ -15,15 +15,15 @@ export default function AboutMeSection({
   return (
     <section className="py-8 lg:py-16 px-8 xl:px-32 2xl:px-80 min-h-screen flex flex-col items-center justify-center gap-8 lg:gap-16">
       <div className="flex flex-col items-center">
-        <motion.p
+        <motion.h1
           initial={{ opacity: 0, y: 50 }}
           animate={{ opacity: 1, y: 0}}
           transition={{ ease: easeInOut }}
           className="text-[32px] md:text-[64px] font-bold leading-tight text-center"
         >
           {name}
-        </motion.p>
-        <motion.p
+        </motion.h1>
+        <motion.h2
           initial={{ opacity: 0, y: 50 }}
           animate={{
             opacity: 1,
@@ -33,9 +33,9 @@ export default function AboutMeSection({
           className="text-[20px] md:text-[32px] leading-tight text-[#8FFF00]"
         >
           {role}
-        </motion.p>
+        </motion.h2>
       </div>
-      <motion.p
+      <motion.h3
         initial={{ opacity: 0, y: 50 }}
         animate={{
           opacity: 1,
@@ -45,7 +45,7 @@ export default function AboutMeSection({
         className="mb-4 px-4 text-xs md:text-xl text-center"
       >
         {about}
-      </motion.p>
+      </motion.h3>
       <div className="flex flex-col md:flex-row items-center gap-4 lg:gap-8 justify-center">
         <motion.a
           initial={{ opacity: 0, y: 50 }}
