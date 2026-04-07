@@ -28,10 +28,10 @@
         {
             "name": "Meeting Scheduler",
             "image_link": "/img/meeting-app.png",
-            "description": "A simple meeting scheduler application that currently being re-developed from an older application, using React, Laravel and MySQL as a personal project, with more refined database schema, updated to the latest stable version of the framework and database, and revamping core features through cleaner code and project structuring. Current preview image/GIF shown is the old legacy version, as the new revamp version is under development.",
+            "description": "Built a meeting scheduling system for small teams, solving fragmented calendars, lack of visibility, and scheduling conflicts through a centralized, admin managed platform. Implemented role based access, conflict prevention, and a calendar style timeline using Laravel, React, and MySQL in a monolithic architecture. Designed for simplicity and maintainability at a 20-30 user scale.",
             "start_date": "",
             "end_date": "",
-            "link": "https://github.com/paundra0217/meeting-scheduler",
+            "link": "https://github.com/paundra0217/meeting-app",
             "tags": [
                 "React",
                 "Laravel",
